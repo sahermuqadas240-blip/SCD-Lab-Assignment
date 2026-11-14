@@ -1,0 +1,6 @@
+Hello!
+
+My name is Saher Muqadas.
+I am a BS Software Engineering student.
+I am learning Software Construction and Development.
+This assignment helps me understand Git and GitHub.
