@@ -1,0 +1,9 @@
+About My SCD Assignment
+
+This repository is created for Software Construction and Development Assignment 2.
+
+In this assignment, I am learning how to use Git and GitHub for version control.
+
+I have learned about repository creation, commits, branches, and merging.
+
+The feature-update branch is used to add new information to the project.
